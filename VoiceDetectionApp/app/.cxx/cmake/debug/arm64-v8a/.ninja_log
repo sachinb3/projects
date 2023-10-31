@@ -1,0 +1,25 @@
+# ninja log v5
+1	16121	716870396	CMakeFiles/echo.dir/audio_common.cpp.o	d9c57b812b373c17
+1370	16124	716870399	CMakeFiles/echo.dir/audio_player.cpp.o	1caa1f72c018d8a8
+2729	16124	716870400	CMakeFiles/echo.dir/audio_main.cpp.o	75b5a28a72524c02
+9367	16125	716870405	CMakeFiles/echo.dir/audio_recorder.cpp.o	86d8594776192746
+10724	16125	716870405	CMakeFiles/echo.dir/kiss_fft/kiss_fft.c.o	12d2124387631a5e
+11867	17639	716870409	CMakeFiles/echo.dir/ece420_lib.cpp.o	ca8d17079a4255a7
+14498	18824	716870410	CMakeFiles/echo.dir/debug_utils.cpp.o	35861b6e04c40c54
+2	2625	716870622	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+2	2994	716870717	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+2994	4830	716870719	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15
+4	2889	716870898	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+2889	4515	716870899	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15
+3	3039	716871098	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+3039	4864	716871100	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15
+2	2630	716871192	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+2631	4299	716871193	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15
+5	4561	716872551	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+4562	6677	716872553	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15
+4	4078	716872787	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+4078	6105	716872789	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15
+5	3996	716872980	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+3996	6160	716872983	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15
+6	3606	717794623	CMakeFiles/echo.dir/ece420_main.cpp.o	1b7f731bb9623ee0
+3607	5808	717794625	C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/build/intermediates/cmake/debug/obj/arm64-v8a/libecho.so	510c4d13ca859e15

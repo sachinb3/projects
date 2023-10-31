@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "C:\\Users\\sachi\\Downloads\\ECE420\\Lab4\\ece420_lab4_2020\\ece420_lab4\\lab4\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\sachi\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\sachi\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\sachi\\Downloads\\ECE420\\Lab4\\ece420_lab4_2020\\ece420_lab4\\lab4\\app\\src\\main\\cpp\\ndk-stl-config.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\sachi\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\sachi\\Downloads\\ECE420\\Lab4\\ece420_lab4_2020\\ece420_lab4\\lab4\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\sachi\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\sachi\\Downloads\\ECE420\\Lab4\\ece420_lab4_2020\\ece420_lab4\\lab4\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "echo-Debug-x86": {
+      "artifactName": "echo",
+      "buildCommand": "C:\\Users\\sachi\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\sachi\\Downloads\\ECE420\\Lab4\\ece420_lab4_2020\\ece420_lab4\\lab4\\app\\.cxx\\cmake\\debug\\x86\" echo",
+      "abi": "x86",
+      "output": "C:\\Users\\sachi\\Downloads\\ECE420\\Lab4\\ece420_lab4_2020\\ece420_lab4\\lab4\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libecho.so",
+      "runtimeFiles": []
+    }
+  }
+}

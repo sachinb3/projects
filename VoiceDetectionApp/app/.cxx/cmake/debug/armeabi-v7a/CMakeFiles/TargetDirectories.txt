@@ -1,0 +1,3 @@
+C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/echo.dir
+C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/sachi/Downloads/ECE420/Lab4/ece420_lab4_2020/ece420_lab4/lab4/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

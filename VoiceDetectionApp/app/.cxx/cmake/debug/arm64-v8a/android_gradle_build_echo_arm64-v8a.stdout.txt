@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\sachi\Downloads\ECE420\Lab4\ece420_lab4_2020\ece420_lab4\lab4\app\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.
